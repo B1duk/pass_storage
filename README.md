@@ -1,4 +1,4 @@
 # pass_storage
 pass storage on python
 
-fix bugs, improve code
+due to the improvement of the quality of the program, it is currently being redesigned
